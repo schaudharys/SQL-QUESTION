@@ -1,1 +1,1 @@
-# SQL-QUESTION
+This Repository contains Sql question ,puzzle and solution 
